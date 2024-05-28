@@ -68,6 +68,7 @@
         <!-- Checkstyle configuration -->
         <linkXRef>false</linkXRef>
 
+        <jdk.min.version>21</jdk.min.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
